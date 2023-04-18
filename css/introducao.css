@@ -68,4 +68,12 @@
     border-radius: 8px;
     padding: 20px;
   }
+  .introducao h1::before {
+    content: "";
+    display: block;
+    background: url("../img/detalhe.svg") no-repeat center;
+    position: absolute;
+    top: -35px;
+    left: -20px;
+    z-index: -1;
 }
