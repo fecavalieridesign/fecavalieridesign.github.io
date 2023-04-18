@@ -23,6 +23,18 @@
   display: block;
 }
 
+.header-menu a:hover {
+  background-image: linear-gradient(
+    to left,
+    #96b1d8,
+    #8aa3e4,
+    #8d91ea,
+    #9d7be9,
+    #b65dde
+  );
+  border-radius: 8px;
+}
+
 @media (max-width: 800px) {
   .header {
     flex-direction: column;
@@ -36,7 +48,15 @@
 }
 
 @media (max-width: 500px) {
-  .header-menu a:hover{
-    color: lightgreen;
+  .header-menu a:hover {
+    background-image: linear-gradient(
+      to left,
+      #96b1d8,
+      #8aa3e4,
+      #8d91ea,
+      #9d7be9,
+      #b65dde
+    );
+    border-radius: 8px;
   }
 }
