@@ -49,3 +49,9 @@
     font-size: 1.5rem;
   }
 }
+
+@media (max-width: 500px){
+  .footer-texto, .footer-contato li, .instagram{
+    font-size: 1rem;
+  }
+}
