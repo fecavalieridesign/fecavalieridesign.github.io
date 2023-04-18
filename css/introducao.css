@@ -63,4 +63,8 @@
   .introducao h1{
     font-size: 2rem;
   }
+  #intro {
+    background: #f5f5f5;
+    border-radius: 8px;
+  }
 }
