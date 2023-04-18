@@ -107,8 +107,8 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 450px) {
   .experiencia .subtitulo{
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }

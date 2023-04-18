@@ -150,3 +150,9 @@
     margin-bottom: 10px;
   }
 }
+
+@media (max-width: 450px) {
+  .experiencia .subtitulo{
+    font-size: 1.5rem;
+  }
+}
