@@ -60,7 +60,7 @@
   .introducao img {
     display: none;
   }
-  .introducao h1{
+  .introducao h1 {
     font-size: 2rem;
   }
   #intro {
@@ -76,4 +76,5 @@
     top: -35px;
     left: -20px;
     z-index: -1;
+  }
 }
