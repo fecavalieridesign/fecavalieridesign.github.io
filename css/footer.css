@@ -51,7 +51,10 @@
 }
 
 @media (max-width: 500px){
-  .footer-texto, .footer-contato li, .instagram{
+  .footer-contato li, .instagram{
     font-size: 1rem;
+  }
+  .footer-texto {
+    font-size: 1.3rem;
   }
 }
