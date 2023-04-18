@@ -63,4 +63,7 @@
   .introducao h1{
     font-size: 2rem;
   }
+  .introducao h1::before{
+    display: none;
+  }
 }
