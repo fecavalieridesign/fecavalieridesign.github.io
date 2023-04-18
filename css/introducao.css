@@ -60,4 +60,7 @@
   .introducao img {
     display: none;
   }
+  .introducao h1{
+    font-size: 3rem;
+  }
 }
