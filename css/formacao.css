@@ -155,7 +155,4 @@
   .formacao .subtitulo{
     font-size: 1.5rem;
   }
-  .formacao-container::after{
-    display: none;
-  }
 }
